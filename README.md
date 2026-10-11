@@ -1,2 +1,18 @@
-# Level-21-Face-Detection
-My first Computer Vision project - Face Detection with Python &amp; OpenCV. Built with phone - Pydroid 3. Part of my 50 Levels to Tesla AI Engineer.
+# Level 21 - Face Detection 👁️
+### My Journey to Tesla AI Engineer (Building with Phone)
+
+This is my first Computer Vision project!
+
+**What it does:**
+- Detects faces live from phone camera
+- Draws green box around face
+- Same tech Tesla uses for driver monitoring
+
+**Tech Used:**
+- Python + OpenCV
+- Haar Cascade Classifier
+- Built on Pydroid 3 (Android)
+
+**How to run:**
+```python
+python face_detection.py
